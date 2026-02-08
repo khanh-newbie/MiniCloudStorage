@@ -1,0 +1,76 @@
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.exe
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.deps.json
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.runtimeconfig.json
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.dll
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.pdb
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\MainWindow.baml
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\App.g.cs
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer_MarkupCompile.cache
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.g.resources
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.AssemblyInfoInputs.cache
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.AssemblyInfo.cs
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.csproj.CoreCompileInputs.cache
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.dll
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\refint\WpfCloudServer.dll
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.pdb
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.genruntimeconfig.cache
+D:\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\ref\WpfCloudServer.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.exe
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.deps.json
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.runtimeconfig.json
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.pdb
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer_MarkupCompile.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.g.resources
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.AssemblyInfoInputs.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.AssemblyInfo.cs
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.csproj.CoreCompileInputs.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\refint\WpfCloudServer.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.pdb
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.genruntimeconfig.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\ref\WpfCloudServer.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.exe
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.deps.json
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.runtimeconfig.json
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.pdb
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer_MarkupCompile.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.g.resources
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.AssemblyInfoInputs.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.AssemblyInfo.cs
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.csproj.CoreCompileInputs.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\refint\WpfCloudServer.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.pdb
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.genruntimeconfig.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\ref\WpfCloudServer.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.exe
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.deps.json
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.runtimeconfig.json
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\bin\Debug\net9.0-windows\WpfCloudServer.pdb
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.g.resources
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\refint\WpfCloudServer.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.pdb
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\WpfCloudServer.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudServer\WpfCloudServer\obj\Debug\net9.0-windows\ref\WpfCloudServer.dll

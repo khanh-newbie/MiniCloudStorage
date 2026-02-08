@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\MiniCloudStorage\\WpfCloudClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC21C61B-1AE3-48D1-A758-BE837221D41C}|WpfCloudClient\\WpfCloudClient.csproj|c:\\users\\admin\\downloads\\minicloudstorage\\wpfcloudclient\\wpfcloudclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC21C61B-1AE3-48D1-A758-BE837221D41C}|WpfCloudClient\\WpfCloudClient.csproj|solutionrelative:wpfcloudclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC21C61B-1AE3-48D1-A758-BE837221D41C}|WpfCloudClient\\WpfCloudClient.csproj|c:\\users\\admin\\downloads\\minicloudstorage\\wpfcloudclient\\wpfcloudclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC21C61B-1AE3-48D1-A758-BE837221D41C}|WpfCloudClient\\WpfCloudClient.csproj|solutionrelative:wpfcloudclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC21C61B-1AE3-48D1-A758-BE837221D41C}|WpfCloudClient\\WpfCloudClient.csproj|c:\\users\\admin\\downloads\\minicloudstorage\\wpfcloudclient\\wpfcloudclient\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC21C61B-1AE3-48D1-A758-BE837221D41C}|WpfCloudClient\\WpfCloudClient.csproj|solutionrelative:wpfcloudclient\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\MiniCloudStorage\\WpfCloudClient\\WpfCloudClient\\FileItem.cs",
+              "RelativeDocumentMoniker": "WpfCloudClient\\FileItem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\MiniCloudStorage\\WpfCloudClient\\WpfCloudClient\\FileItem.cs",
+              "RelativeToolTip": "WpfCloudClient\\FileItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T22:30:00.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\MiniCloudStorage\\WpfCloudClient\\WpfCloudClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfCloudClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\MiniCloudStorage\\WpfCloudClient\\WpfCloudClient\\MainWindow.xaml",
+              "RelativeToolTip": "WpfCloudClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-23T16:20:33.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\MiniCloudStorage\\WpfCloudClient\\WpfCloudClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfCloudClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\MiniCloudStorage\\WpfCloudClient\\WpfCloudClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfCloudClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAwKIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:20:32.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

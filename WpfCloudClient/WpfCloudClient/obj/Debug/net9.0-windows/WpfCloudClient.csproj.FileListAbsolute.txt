@@ -1,0 +1,92 @@
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\MainWindow.baml
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\App.g.cs
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient_MarkupCompile.cache
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.g.resources
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.AssemblyInfoInputs.cache
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.AssemblyInfo.cs
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.csproj.CoreCompileInputs.cache
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.csproj.AssemblyReference.cache
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.exe
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.deps.json
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.runtimeconfig.json
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.dll
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.pdb
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloud.F8D80238.Up2Date
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.dll
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\refint\WpfCloudClient.dll
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.pdb
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.genruntimeconfig.cache
+D:\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\ref\WpfCloudClient.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.csproj.AssemblyReference.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient_MarkupCompile.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.g.resources
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.AssemblyInfoInputs.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.AssemblyInfo.cs
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.csproj.CoreCompileInputs.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\refint\WpfCloudClient.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.pdb
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.exe
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.deps.json
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.runtimeconfig.json
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.pdb
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloud.F8D80238.Up2Date
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.genruntimeconfig.cache
+C:\Users\nguyenduykhanh2\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\ref\WpfCloudClient.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.exe
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.deps.json
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.runtimeconfig.json
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.pdb
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.csproj.AssemblyReference.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient_MarkupCompile.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.g.resources
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.AssemblyInfoInputs.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.AssemblyInfo.cs
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.csproj.CoreCompileInputs.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloud.F8D80238.Up2Date
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\refint\WpfCloudClient.dll
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.pdb
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.genruntimeconfig.cache
+C:\Users\nguyenduykhanh2\Documents\2025\Tháng 12\Lập trình mạng\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\ref\WpfCloudClient.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.exe
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.deps.json
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.runtimeconfig.json
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\WpfCloudClient.pdb
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.g.resources
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloud.F8D80238.Up2Date
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\refint\WpfCloudClient.dll
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.pdb
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\WpfCloudClient.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\MiniCloudStorage\WpfCloudClient\WpfCloudClient\obj\Debug\net9.0-windows\ref\WpfCloudClient.dll

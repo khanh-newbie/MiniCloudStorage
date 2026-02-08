@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguyenduykhanh2\\Documents\\2025\\Th\u00E1ng 12\\L\u1EADp tr\u00ECnh m\u1EA1ng\\MiniCloudStorage\\WpfCloudServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA19C52E-19AA-4EA6-B74F-E4490D08B708}|WpfCloudServer\\WpfCloudServer.csproj|c:\\users\\nguyenduykhanh2\\documents\\2025\\th\u00E1ng 12\\l\u1EADp tr\u00ECnh m\u1EA1ng\\minicloudstorage\\wpfcloudserver\\wpfcloudserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA19C52E-19AA-4EA6-B74F-E4490D08B708}|WpfCloudServer\\WpfCloudServer.csproj|solutionrelative:wpfcloudserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA19C52E-19AA-4EA6-B74F-E4490D08B708}|WpfCloudServer\\WpfCloudServer.csproj|c:\\users\\nguyenduykhanh2\\documents\\2025\\th\u00E1ng 12\\l\u1EADp tr\u00ECnh m\u1EA1ng\\minicloudstorage\\wpfcloudserver\\wpfcloudserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EA19C52E-19AA-4EA6-B74F-E4490D08B708}|WpfCloudServer\\WpfCloudServer.csproj|solutionrelative:wpfcloudserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nguyenduykhanh2\\Documents\\2025\\Th\u00E1ng 12\\L\u1EADp tr\u00ECnh m\u1EA1ng\\MiniCloudStorage\\WpfCloudServer\\WpfCloudServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfCloudServer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nguyenduykhanh2\\Documents\\2025\\Th\u00E1ng 12\\L\u1EADp tr\u00ECnh m\u1EA1ng\\MiniCloudStorage\\WpfCloudServer\\WpfCloudServer\\MainWindow.xaml",
+              "RelativeToolTip": "WpfCloudServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-31T04:52:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nguyenduykhanh2\\Documents\\2025\\Th\u00E1ng 12\\L\u1EADp tr\u00ECnh m\u1EA1ng\\MiniCloudStorage\\WpfCloudServer\\WpfCloudServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfCloudServer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nguyenduykhanh2\\Documents\\2025\\Th\u00E1ng 12\\L\u1EADp tr\u00ECnh m\u1EA1ng\\MiniCloudStorage\\WpfCloudServer\\WpfCloudServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfCloudServer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAzwPsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:52:36.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
